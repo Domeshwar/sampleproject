@@ -7,7 +7,7 @@ public class DB {
 		try{
 			Class.forName("com.mysql.jdbc.Driver");
 			con=DriverManager.getConnection("jdbc:mysql://localhost:3306/test","","");
-			system.out.println("hello how are you")
+			system.out.println("hello how are you11222")
 		}catch(Exception e){System.out.println(e);}
 		return con;
 	}
