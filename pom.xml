@@ -5,7 +5,7 @@
 	<artifactId>sampleproject1</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.7-SNAPSHOT</version>
-	<name>sampleproject1</name>
+	<name>sampleproject2</name>
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
